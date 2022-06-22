@@ -5,7 +5,7 @@ kiwisolver==1.1.0
 lightgbm==2.3.1
 matplotlib==3.1.2
 mlxtend==0.17.0
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.25.3
 pyparsing==2.4.6
 python-dateutil==2.8.1
